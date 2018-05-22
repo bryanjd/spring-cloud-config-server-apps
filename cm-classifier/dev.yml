@@ -1,3 +1,0 @@
-SQLALCHEMY_DATABASE_URI: "postgresql://xxx:xxx@postgres.service.consul:5432/PGSDEV"
-SQLALCHEMY_TRACK_MODIFICATIONS: False
-ANSWER_CONTEXT_TABLE_ARGS_SCHEMA: "checkpoint_answers"
