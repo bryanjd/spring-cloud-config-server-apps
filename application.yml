@@ -1,0 +1,3 @@
+test:
+  git:
+    level: root-default-apps
